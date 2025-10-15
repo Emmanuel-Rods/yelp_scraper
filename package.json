@@ -1,0 +1,20 @@
+{
+  "name": "yelp_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Roger Rodrigues",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "papaparse": "^5.5.3",
+    "puppeteer": "^24.24.1",
+    "puppeteer-real-browser": "^1.4.4",
+    "xlsx": "^0.18.5"
+  }
+}
